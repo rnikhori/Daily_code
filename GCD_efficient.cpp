@@ -13,6 +13,6 @@
  }
  int main()
  {
-     cout<<"GCD of given numbers are"<<GCD(92,7);
+     cout<<"GCD of given numbers are"<<GCD(105,7);
      return 0;
  }
